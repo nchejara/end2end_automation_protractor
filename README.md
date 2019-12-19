@@ -6,6 +6,7 @@ Setup end-2-end UI automation for the web application from the scratch
     $ git clone https://github.com/nchejara/end2end_automation_protractor.git
     $ cd end2end_automation_protractor
     $ npm install
+    $ npm install -g grunt grunt-cli protractor
 
 
 ## Run Tests
